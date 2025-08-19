@@ -37,7 +37,7 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://tenantforge.mintlify.app/v1.x/introduction",
           "icon": "book-open-cover"
         },
         {
