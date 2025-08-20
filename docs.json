@@ -3,9 +3,15 @@
   "theme": "mint",
   "name": "TenantForge",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#04C147",
+    "light": "#04C147",
+    "dark": "#04C147"
+  },
+  "background": {
+    "decoration": "gradient"
+  },
+  "fonts": {
+    "family": "Poppins"
   },
   "favicon": "/favicon.svg",
   "navigation": {
